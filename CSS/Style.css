@@ -1,38 +1,40 @@
 Body {
-    background-image: url('https://i.pinimg.com/originals/14/ba/4f/14ba4fd010262c4ae2260478f846c5e0.jpg');
-    backgroud-size: auto 100vh;
-    height: 100vh;
-    font-family: arial;
-  }
+  background-image: url('https://wallpaperaccess.com/full/7285.jpg');
+  backgroud-size: auto 100vh;
+  height: 100vh;
   
-  .menu {
-    Background-color: white;
-  } 
-  
-  .menu ul {
-    display: flex;
-    justifY-content: space-around;
-  }
-  
-  .menu li {
-    list-style: none;
-  }
-  
-  a {
-    color: teal;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: underline;
-  }
-  
-  .site-Subtitle,
-  .site-title {
-    text-align: center;
-    color: whitesmoke;
-  }
-  
-  .site-Subtitle {
-    font-style: italic;
-  }
+}
+
+.menu {   
+  Background-color: white;
+  font-family: Arial;
+} 
+
+.menu ul {
+  display: flex;
+  justifY-content: space-around;
+}
+
+.menu li {
+  list-style: none;
+}
+
+a {
+  color: teal;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-Subtitle,
+.site-title {
+  text-align: center;
+  color: darkBlue;
+  font-family: arial
+}
+
+.site-Subtitle {
+  font-style: italic;
+}
